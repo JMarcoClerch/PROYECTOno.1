@@ -1,3 +1,3 @@
 # PROYECTOno.1
 Repositorio para entregar mi proyecto&lt;3
-En éste repositorio voy explicar mi página y los códigos que he utilizado 
+En éste repositorio voy explicar mi página y los códigos que he utilizado. 
